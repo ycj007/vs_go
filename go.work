@@ -1,0 +1,9 @@
+go 1.19
+
+use (
+	./bufio
+	./fuzz
+	./generics
+	./gowiki
+	./web_service_gin
+)
